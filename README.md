@@ -10,7 +10,7 @@
 [![OpenWeatherMap](https://img.shields.io/badge/Powered%20by-OpenWeatherMap-orange.svg)](https://openweathermap.org/)
 
 ## 🌐 Hosted Link
-[Access the application here](https://yourapplication.com)
+[Weather Monitoring System](https://karthickeien.github.io/Weather-Monitoring-System/)
 
 ## 📋 Overview
 This project provides real-time weather data retrieval and analysis using the OpenWeatherMap API. It periodically fetches weather updates for specified locations, processes the data, and generates daily summaries, including weather statistics like average, maximum, and minimum temperatures, and dominant weather conditions. Additional parameters such as humidity and wind speed are also supported.
