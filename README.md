@@ -15,7 +15,7 @@
 ## 📋 Overview
 This project provides real-time weather data retrieval and analysis using the OpenWeatherMap API. It periodically fetches weather updates for specified locations, processes the data, and generates daily summaries, including weather statistics like average, maximum, and minimum temperatures, and dominant weather conditions. Additional parameters such as humidity and wind speed are also supported.
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="Weather Dashboard Preview">
+  <img src="Weather Dashboard Preview.png" alt="Weather Dashboard Preview">
 </p>
 
 ## ✨ Features
